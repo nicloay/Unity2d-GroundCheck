@@ -12,7 +12,7 @@ I've used sepearated collider to check whether object grounded or not, and anoth
 ![plaer colliders](http://storage2.static.itmages.ru/i/15/0525/h_1432541007_6848111_50251b75f1.png)
 
 * **rectangle** - player bounds
-* **circle ** - ground check collider
+* **circle** - ground check collider
 
 
 As usual you need to create separated layer for ground colliders. otherwise you can rewrite the script and omit ground LayerMask
